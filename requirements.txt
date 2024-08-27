@@ -1,1 +1,6 @@
-
+torch
+psutil
+sqlparse
+transformers
+AutoTokenizer
+AutoModelForCausalLM
